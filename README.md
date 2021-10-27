@@ -16,7 +16,7 @@ class Biografia extends SoftwareDeveloper {
   nombre     = 'Diego Díaz';
   titulo   = 'Ingenieria de sistemas';
   educacion  = 'Universidad EAN;
-  ubicacion = 'Bogota DC, 🇨🇴';
+  ubicacion = 'Bogota DC, 🇨🇴 ;
   gustos = 'F1 🏎', 'Viajar 🌎', 'Autos 🚗 ', 'Motos 🏍', 'Animales 😸';
 }
 
