@@ -21,7 +21,7 @@ class Biografia extends SoftwareDeveloper {
 }
 
 class Habilidades extends SoftwareDeveloper {
-  languages  = ['C++', 'Python', 'PHP', 'HTML', 'CSS'];
+  languages  = ['C++','Javascript', 'Python', 'PHP', 'HTML', 'CSS'];
   databases  = ['MySQL', 'Oracle', 'PostgreSQL'];
   tools      = ['VS code', 'Atom', 'Git']
  }
