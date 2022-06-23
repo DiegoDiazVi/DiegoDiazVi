@@ -1,11 +1,7 @@
 ### Hola a todos, Soy Diego! 👋👨🏽‍💻🏎
 <html>
 <p align="center">
-         Soy estudiante de ingeniería de sistemas e ingeniería industrial en la universidad EAN, actualmente estoy en mis últimos semestres.
-        <br>
-         Me apasionan diversos temas como el desarrollo web y móvil, la ciberseguridad, administración de bases de datos y el mundo de  <br> las redes y telecomunicaciones,
-         de esta manera he sido parte de grupos extracurriculares como semilleros de investigación en  <br> cibersuridad  teniendo como resultado un ataque controlado de Phishing
-         a toda la comunidad universitaria, además, he participado  <br> en competencias CTF conociendo un poco el mundo del hacking ético y actualmente soy monitor académico de            Bases de datos.
+         Soy frontend developer e ingeniero de sistemas, me apasiona convertir ideas en productos funcionales. Desarrollo en lenguajes JavaScript y frameworks como React y NodeJS, trabajando con metodologías ágiles y siempre aplicando código amigable y limpio. Como front-end engineer me caracterizo por asegurar la viabilidad de los diseños de UI/UX, desarrollar de funcionalidades para mejorar la experiencia del usuario, comprensión de los principios de SEO, desarrollar e implementar arquitectura front-end para soportar conceptos de interfaz de usuario, supervisar y mejorar el rendimiento del front-end, documentar cambios en la aplicación y desarrollar actualizaciones.
 
 </p>
 
