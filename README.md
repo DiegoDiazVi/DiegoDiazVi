@@ -1,7 +1,7 @@
 ### Hola a todos, Soy Diego! 👋👨🏽‍💻🏎
 <html>
 <p align="center">
-         Soy frontend developer e ingeniero de sistemas, me apasiona convertir ideas en productos funcionales. Desarrollo en lenguajes JavaScript y frameworks como React y NodeJS, trabajando con metodologías ágiles y siempre aplicando código amigable y limpio. Como front-end engineer me caracterizo por asegurar la viabilidad de los diseños de UI/UX, desarrollar de funcionalidades para mejorar la experiencia del usuario, comprensión de los principios de SEO, desarrollar e implementar arquitectura front-end para soportar conceptos de interfaz de usuario, supervisar y mejorar el rendimiento del front-end, documentar cambios en la aplicación y desarrollar actualizaciones.
+         Soy frontend developer e ingeniero de sistemas, me apasiona convertir ideas en productos funcionales. Desarrollo con tecnologias Front como JavaScript, React, Littrabajando con metodologías ágiles y siempre aplicando código amigable y limpio. Como front-end engineer me caracterizo por asegurar la viabilidad de los diseños de UI/UX, desarrollar de funcionalidades para mejorar la experiencia del usuario, comprensión de los principios de SEO, desarrollar e implementar arquitectura front-end para soportar conceptos de interfaz de usuario, supervisar y mejorar el rendimiento del front-end, documentar cambios en la aplicación y desarrollar actualizaciones.
 
 </p>
 
@@ -10,16 +10,15 @@ import SoftwareDeveloper from 'DiegoDiaz';
 
 class Biografia extends SoftwareDeveloper {
   nombre     = 'Diego Díaz';
-  titulo   = 'Ingenieria de sistemas';
+  titulo   = 'Ingeniero de sistemas';
   educacion  = 'Universidad EAN;
   ubicacion = 'Bogota DC, 🇨🇴 ;
   gustos = 'F1 🏎', 'Viajar 🌎', 'Autos 🚗 ', 'Motos 🏍', 'Animales 😸';
 }
 
 class Habilidades extends SoftwareDeveloper {
-  languages  = ['React','Javascript', 'HTML', 'CSS'];
-  databases  = ['MySQL', 'Oracle', 'PostgreSQL'];
-  tools      = ['VS code', 'Atom', 'Git']
+  languages  = ['React','Javascript', 'Lit', HTML', 'CSS'];
+  tools      = ['VS code', 'Atom', 'Git', 'Jira'];
  }
 ```
 <p align="center">
