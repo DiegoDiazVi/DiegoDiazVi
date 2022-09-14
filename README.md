@@ -22,9 +22,9 @@ class Habilidades extends SoftwareDeveloper {
  }
 ```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoDiazVi&show_icons=true&theme=dracula"" alt="DiegoDiazVi" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoDiazVi&show_icons=true&theme=dracula"" alt="DiegoDiazVi" height="200px"/> 
    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoDiazVi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DiegoDiazVi" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoDiazVi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DiegoDiazVi" height="200px"/>
 </p>
 
                                                                                                                              
