@@ -21,10 +21,11 @@ class Habilidades extends SoftwareDeveloper {
   tools      = ['VS code', 'Atom', 'Git', 'Jira'];
  }
 ```
+## 🔥 Estadisticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoDiazVi&show_icons=true&theme=dracula"" alt="DiegoDiazVi" height="200px"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoDiazVi&show_icons=true&theme=algolia" alt="DiegoDiazVi" height="200px"/> 
    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoDiazVi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="DiegoDiazVi" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoDiazVi&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DiegoDiazVi" height="200px"/>
 </p>
 
                                                                                                                              
