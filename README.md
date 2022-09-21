@@ -15,7 +15,7 @@ class Biography extends SoftwareDeveloper {
   degree   = ['Software Engineer' , 'Industrial Engineer'];
   university = 'Universidad EAN';
   location = 'Bogota DC 🇨🇴' ;
-  passions = 'F1 🏎', 'Travels 🌎', 'Cars 🚗 ', 'motorcycles  🏍', 'Pets 😸';
+  passions = ['F1 🏎', 'Travels 🌎', 'Cars 🚗 ', 'motorcycles  🏍', 'Pets 😸'];
 }
 
 class Skills extends SoftwareDeveloper {
