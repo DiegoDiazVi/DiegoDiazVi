@@ -33,9 +33,9 @@ class Skills extends SoftwareDeveloper {
                                                                                                                              
  ### 📫 Contact me
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
-<a href="https://www.linkedin.com/in/diego-esteban-d%C3%ADaz-vivas-3009a3169/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/diego-esteban-diaz-vivas/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 <a href="mailto:ddiazvi29075@universidadean.edu.co"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
-<a href="https://www.instagram.com/diegodiazviv/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="Instagram"></a>
+<a href="https://www.instagram.com/diegodiaz.dev/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30px" alt="Instagram"></a>
 
 </html>
 
