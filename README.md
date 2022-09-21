@@ -1,4 +1,4 @@
-### Hola a todos, Soy Diego! 👋👨🏽‍💻🏎
+### Hi everyone, I'm Diego! 👋👨🏽‍💻🏎
 <html>
 <p align="center">
 I'm a frontend developer and systems engineer, I'm passionate about turning ideas into functional products. I develop in JavaScript languages and UI libraries like React and LitElement, I work with agile methodologies, always applying friendly and clean code. 
@@ -23,7 +23,7 @@ class Habilidades extends SoftwareDeveloper {
   tools      = ['VS code', 'Atom', 'Git', 'Jira'];
  }
 ```
-## 🔥 Estadisticas
+## 🔥 Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DiegoDiazVi&show_icons=true&theme=algolia" alt="DiegoDiazVi" height="200px"/> 
    <br>
@@ -31,7 +31,7 @@ class Habilidades extends SoftwareDeveloper {
 </p>
 
                                                                                                                              
- ### 📫 Contacto
+ ### 📫 Contact me
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->
 <a href="https://www.linkedin.com/in/diego-esteban-d%C3%ADaz-vivas-3009a3169/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 <a href="mailto:ddiazvi29075@universidadean.edu.co"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
