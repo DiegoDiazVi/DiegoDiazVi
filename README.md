@@ -12,15 +12,15 @@ import SoftwareDeveloper from 'DiegoDiaz';
 
 class Biography extends SoftwareDeveloper {
   name     = 'Diego Díaz';
-  degree   = ['Software Engineer' , 'Industrial Engineer'];
+  degree   = [ 'Software Engineer' ];
   university = 'Universidad EAN';
   location = 'Bogota DC 🇨🇴' ;
   passions = ['F1 🏎', 'Travels 🌎', 'Cars 🚗 ', 'motorcycles  🏍', 'Pets 😸'];
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['React','Javascript', 'Lit', HTML', 'CSS'];
-  tools      = ['VS code', 'Atom', 'Git', 'Jira'];
+  languages  = ['React','Javascript', 'LitElement', HTML', 'CSS', 'WebComponents', 'Polymer'];
+  tools      = ['VS code', 'Git', 'Jira', 'Postman'];
  }
 ```
 ## 🔥 Statistics
