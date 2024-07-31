@@ -12,7 +12,7 @@ import SoftwareDeveloper from 'DiegoDiaz';
 
 class Biography extends SoftwareDeveloper {
   name     = 'Diego Díaz';
-  degree   = [ 'Software Engineer' ];
+  degree   = 'Software Engineer';
   university = 'Universidad EAN';
   location = 'Bogota DC 🇨🇴' ;
   passions = ['F1 🏎', 'Travels 🌎', 'Cars 🚗 ', 'motorcycles  🏍', 'Pets 😸'];
