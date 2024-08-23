@@ -19,7 +19,7 @@ class Biography extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['React' ,'Javascript', 'TypeScript', 'LitElement', HTML', 'CSS', 'WebComponents', 'Polymer'];
+  languages  = ['React' ,'Javascript', 'TypeScript', 'Redux', 'LitElement', HTML', 'CSS', 'WebComponents', 'Polymer'];
   tools      = ['VS code', 'Git', 'Jira', 'Postman'];
  }
 ```
