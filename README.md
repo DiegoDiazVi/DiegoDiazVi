@@ -24,7 +24,11 @@ class Biography extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   constructor() {
     super();
-    this.languages = ['React', 'JavaScript', 'TypeScript', 'LitElement', 'HTML', 'CSS', 'SASS', 'WebComponents', 'Polymer'];
+    this.languages = [
+      'React', 'JavaScript', 'TypeScript',
+      'LitElement', 'HTML', 'CSS', 'SASS',
+      'WebComponents', 'Polymer'
+    ];
     this.tools = ['Redux', 'Git', 'Jira', 'Postman'];
   }
 }
