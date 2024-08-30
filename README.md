@@ -11,17 +11,24 @@ I am known for developing functionalities with user experience in mind and using
 import SoftwareDeveloper from 'DiegoDiaz';
 
 class Biography extends SoftwareDeveloper {
-  name     = 'Diego Díaz';
-  degree   = 'Software Engineer';
-  university = 'Universidad EAN';
-  location = 'Bogota DC 🇨🇴' ;
-  passions = ['F1 🏎', 'Travels 🌎', 'Cars 🚗 ', 'motorcycles  🏍', 'Pets 😸'];
+  constructor() {
+    super();
+    this.name = 'Diego Díaz';
+    this.degree = 'Software Engineer';
+    this.university = 'Universidad EAN';
+    this.location = 'Bogotá DC 🇨🇴';
+    this.passions = ['Learn 📚','F1 🏎', 'Travels 🌎', 'Cars 🚗', 'Motorcycles 🏍', 'Pets 😸'];
+  }
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['React' ,'Javascript', 'TypeScript', 'Redux', 'LitElement', HTML', 'CSS', 'WebComponents', 'Polymer'];
-  tools      = ['VS code', 'Git', 'Jira', 'Postman'];
- }
+  constructor() {
+    super();
+    this.languages = ['React', 'JavaScript', 'TypeScript', 'LitElement', 'HTML', 'CSS', 'SASS', 'WebComponents', 'Polymer'];
+    this.tools = ['Redux', 'Git', 'Jira', 'Postman'];
+  }
+}
+
 ```
 ## 🔥 Statistics
 <p align="center">
