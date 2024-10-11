@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Diego! 👋👨🏽‍💻🏎
 <html>
 <p>
-I'm a frontend developer and systems engineer, I'm passionate about turning ideas into functional products. I develop in JavaScript and TypeScript languages and UI libraries like React, I work with agile methodologies, always applying friendly and clean code. 
+I'm a Software developer and systems engineer, I'm passionate about turning ideas into functional products. I develop in JavaScript and TypeScript languages and UI libraries like React, I work with agile methodologies, always applying friendly and clean code. 
 
 I am known for developing functionalities with user experience in mind and using best practices, understanding SEO principles, developing and implementing front-end architectures to support UI concepts, monitoring and improving website performance, documenting changes in web applications and developing updates.
 
@@ -26,7 +26,7 @@ class Skills extends SoftwareDeveloper {
     super();
     this.languages = [
       'React', 'JavaScript', 'TypeScript',
-      'LitElement', 'HTML', 'CSS', 'SASS',
+      'Java', 'HTML', 'CSS', 'SASS',
       'WebComponents', 'Polymer'
     ];
     this.tools = ['Redux', 'Git', 'Jira', 'Postman'];
