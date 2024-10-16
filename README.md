@@ -1,9 +1,9 @@
 ### Hi everyone, I'm Diego! 👋👨🏽‍💻🏎
 <html>
 <p>
-I'm a Software developer and systems engineer, I'm passionate about turning ideas into functional products. I develop in JavaScript and TypeScript languages and UI libraries like React, I work with agile methodologies, always applying friendly and clean code. 
+I am a Software Developer with experience in Java, SQL, and object-oriented programming (OOP), as well as frontend development with React. I specialize in building dynamic applications, combining intuitive user interfaces with efficient data management.
 
-I am known for developing functionalities with user experience in mind and using best practices, understanding SEO principles, developing and implementing front-end architectures to support UI concepts, monitoring and improving website performance, documenting changes in web applications and developing updates.
+In my current role at Accenture, I’ve developed complete applications using React, managing state with Context API and Redux, and streamlining logic with React Hooks. Additionally, I work with Java to create modular and maintainable code, applying SOLID principles. I also manage SQL databases to ensure reliable data handling and query optimization.
 
 </p>
 
@@ -25,11 +25,11 @@ class Skills extends SoftwareDeveloper {
   constructor() {
     super();
     this.languages = [
-      'React', 'JavaScript', 'TypeScript',
-      'Java', 'HTML', 'CSS', 'SASS',
-      'WebComponents', 'Polymer'
+      'Java', 'JavaScript', 'TypeScript',
+      'SQL', 'HTML', 'CSS', 'SASS'
     ];
-    this.tools = ['Redux', 'Git', 'Jira', 'Postman'];
+    this.frameworks = ['React', 'Lit']
+    this.tools = ['Redux', 'Git', 'Jira', 'Postman', 'WebComponents'];
   }
 }
 
